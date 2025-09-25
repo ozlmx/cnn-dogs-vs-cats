@@ -2,7 +2,7 @@
 # CNN ile Kedi-Köpek Sınıflandırma Projesi
 
 Bu repo, **Global AI Hub Bootcamp** kapsamında geliştirdiğim ilk **CNN tabanlı derin öğrenme projesini** içermektedir.  
-Amaç, **Cats vs Dogs** veri seti kullanılarak bir görüntü sınıflandırma modeli oluşturmak ve sonuçlarını değerlendirmektir.  
+Amaç, **Dogs vs Cats** veri seti kullanılarak bir görüntü sınıflandırma modeli oluşturmak ve sonuçlarını değerlendirmektir.  
 
 ---
 
@@ -69,8 +69,8 @@ Modelin performansını artırmak için yapılabilecek geliştirmeler:
 
 
 ## Linkler:
-### 🔗 Kaggle Notebook Linki: https://www.kaggle.com/code/ozlemlimon/dogs-vs-cats-cnn-image-classification
-### 🔗 Kullanılan Kaggle Dataset Linki: https://www.kaggle.com/datasets/moazeldsokyx/dogs-vs-cats
+- 🔗 Kaggle Notebook Linki: https://www.kaggle.com/code/ozlemlimon/dogs-vs-cats-cnn-image-classification
+- 🔗 Kullanılan Kaggle Dataset Linki: https://www.kaggle.com/datasets/moazeldsokyx/dogs-vs-cats
 
 
 
